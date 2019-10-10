@@ -1,0 +1,10 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.8.2",
+    "utility": "^1.16.1"
+  }
+}
